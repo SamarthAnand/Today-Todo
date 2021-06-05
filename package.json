@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "start": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamarthAnand/Today-Todo.git"
+  },
+  "author": "Samarth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamarthAnand/Today-Todo/issues"
+  },
+  "homepage": "https://github.com/SamarthAnand/Today-Todo#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
