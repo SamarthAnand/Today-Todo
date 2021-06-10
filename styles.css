@@ -1,7 +1,7 @@
 
-/* html,body{
-    height:100%;
-    } */
+html,body{
+   
+    }
 
 html {
     display: table;
@@ -18,12 +18,13 @@ body{
     vertical-align: middle;
     background-color: #222831;
     color:rgb(2, 1, 8);
-   
+    height:100%;
     overflow:hidden;
     padding:1in 1in 1in 1in;
     
 }
 body:hover{
+     height:100%;
   border: solid blue;
   border-width: thin;
   border-radius: 5%;
